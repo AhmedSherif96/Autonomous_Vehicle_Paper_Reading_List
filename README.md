@@ -35,8 +35,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * MultiNet: Real-time Joint Semantic Reasoning for Autonomous Driving [[pdf]](http://arxiv.org/abs/1612.07695v1)
 * Beyond Skip Connections: Top-Down Modulation for Object Detection [[pdf]](http://arxiv.org/abs/1612.06851v1)
 * Traffic Sign Recognition with Multi-Scale Convolutional Networks [[pdf]](http://ieeexplore.ieee.org/document/6033589/)
-* Can we unify monocular detectors for autonomous driving by using the pixel-wise semantic segmentation of CNNs? 
-  [[pdf]](http://arxiv.org/abs/1607.00971v1)
+* Can we unify monocular detectors for autonomous driving by using the pixel-wise semantic segmentation of CNNs?   [[pdf]](http://arxiv.org/abs/1607.00971v1)
 * Pyramid Scene Parsing Network  [[pdf]](https://arxiv.org/abs/1612.01105v2)
 * Brain Inspired Cognitive Model with Attention for Self-Driving Cars [[pdf]](https://arxiv.org/abs/1702.05596v1)
 * Image-to-Image Translation with Conditional Adversarial Networks [[pdf]](http://arxiv.org/abs/1611.07004v1)
@@ -60,8 +59,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Detecting Drivable Area for Self-driving Cars:An Unsupervised Approach [[pdf]](https://arxiv.org/abs/1705.00451v1)
 ## Motion planning & Reinforcement learning
 * A Survey of Motion Planning and Control Techniques for Self-Driving Urban Vehicles[[pdf]](http://ieeexplore.ieee.org/abstract/document/7490340/)
-* Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions [[pdf]]
-(http://www.sciencedirect.com/science/article/pii/S0968090X15003447)
+* Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions [[pdf](http://www.sciencedirect.com/science/article/pii/S0968090X15003447)
 * A survey on motion prediction and risk assessment for intelligent vehicles [[pdf]](https://link.springer.com/article/10.1186/s40648-014-0001-z)
 * End-to-End Deep Reinforcement Learning for Lane Keeping Assist [[pdf]](https://arxiv.org/abs/1612.04340v1)
 * Deep Reinforcement Learning framework for Autonomous Driving [[pdf]](http://arxiv.org/abs/1704.02532v1)
