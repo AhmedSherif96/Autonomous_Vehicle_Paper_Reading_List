@@ -58,11 +58,11 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem [[pdf]](https://arxiv.org/pdf/1701.08376v2.pdf)
 * Vehicle Detection from 3D Lidar Using Fully Convolutional Network[[pdf]](https://arxiv.org/abs/1608.07916v1)
 * Detecting Drivable Area for Self-driving Cars:An Unsupervised Approach [[pdf]](https://arxiv.org/abs/1705.00451v1)
-## Driving style
-* Characterizing Driving Styles with Deep Learning [[pdf]](http://arxiv.org/abs/1607.03611v2)
-* Learning Where to Attend Like a Human Driver [[pdf]](https://arxiv.org/abs/1611.08215v2)
-* Probabilistic Vehicle Trajectory Prediction over Occupancy Grid Map via Recurrent Neural Network [[pdf]](https://arxiv.org/pdf/1704.07049.pdf)
 ## Motion planning & Reinforcement learning
+* A Survey of Motion Planning and Control Techniques for Self-Driving Urban Vehicles[[pdf]](http://ieeexplore.ieee.org/abstract/document/7490340/)
+* Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions [[pdf]]
+(http://www.sciencedirect.com/science/article/pii/S0968090X15003447)
+* A survey on motion prediction and risk assessment for intelligent vehicles [[pdf]](https://link.springer.com/article/10.1186/s40648-014-0001-z)
 * End-to-End Deep Reinforcement Learning for Lane Keeping Assist [[pdf]](https://arxiv.org/abs/1612.04340v1)
 * Deep Reinforcement Learning framework for Autonomous Driving [[pdf]](http://arxiv.org/abs/1704.02532v1)
 * Learning to Drive using Inverse Reinforcement Learning and Deep Q-Networks [[pdf]](http://arxiv.org/abs/1612.03653v1)
@@ -71,7 +71,9 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Virtual to Real Reinforcement Learning for Autonomous Driving [[pdf]](https://arxiv.org/abs/1704.03952v3)
 * Learning End-to-end Multimodal Sensor Policies for Autonomous Navigation [[pdf]](https://arxiv.org/abs/1705.10422v1)
 * A Fast Integrated Planning and Control Framework for Autonomous Driving via Imitation Learning [[pdf]](https://arxiv.org/abs/1707.02515v1)
-* A Survey of Motion Planning and Control Techniques for Self-Driving Urban Vehicles[[pdf]](http://ieeexplore.ieee.org/abstract/document/7490340/)
+* Characterizing Driving Styles with Deep Learning [[pdf]](http://arxiv.org/abs/1607.03611v2)
+* Learning Where to Attend Like a Human Driver [[pdf]](https://arxiv.org/abs/1611.08215v2)
+* Probabilistic Vehicle Trajectory Prediction over Occupancy Grid Map via Recurrent Neural Network [[pdf]](https://arxiv.org/pdf/1704.07049.pdf)
 ## SLAM
 * Past, Present, and Future of Simultaneous ocalization and Mapping: Toward theRobust-PerceptionAge
    [[pdf]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7747236)
