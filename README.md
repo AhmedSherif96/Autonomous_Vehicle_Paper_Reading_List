@@ -59,7 +59,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Detecting Drivable Area for Self-driving Cars:An Unsupervised Approach [[pdf]](https://arxiv.org/abs/1705.00451v1)
 ## Motion planning & Reinforcement learning
 * A Survey of Motion Planning and Control Techniques for Self-Driving Urban Vehicles[[pdf]](http://ieeexplore.ieee.org/abstract/document/7490340/)
-* Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions [[pdf](http://www.sciencedirect.com/science/article/pii/S0968090X15003447)
+* Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions [[pdf]](http://www.sciencedirect.com/science/article/pii/S0968090X15003447)
 * A survey on motion prediction and risk assessment for intelligent vehicles [[pdf]](https://link.springer.com/article/10.1186/s40648-014-0001-z)
 * End-to-End Deep Reinforcement Learning for Lane Keeping Assist [[pdf]](https://arxiv.org/abs/1612.04340v1)
 * Deep Reinforcement Learning framework for Autonomous Driving [[pdf]](http://arxiv.org/abs/1704.02532v1)
