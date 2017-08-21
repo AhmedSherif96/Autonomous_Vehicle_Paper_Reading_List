@@ -1,6 +1,12 @@
 # Autonomous_Vehicle_Paper_Reading_List
-A collection of papers focus on self-driving car. Many topics are covered including computer vison, sensor fusion, SLAM, decision and planning. The paper list will be timely updated. 
+A collection of papers focus on self-driving car. Many topics are covered including system architecture,computer vison, sensor fusion,planning&control and SLAM. The paper list will be timely updated. 
 <img width="600" height="340" src="https://github.com/ZRZheng/Autonomous_Vehicle_Paper_Reading_List/blob/master/Paper%20Cloud.png"/>
+## System architecture
+* Junior: The Stanford Entry in the Urban Challenge [[pdf]](https://link.springer.com/chapter/10.1007/978-3-642-03991-1_3)
+* Towards Fully Autonomous Driving: Systems and Algorithms [[pdf]](http://ieeexplore.ieee.org/abstract/document/5940562/)
+* Autonomous Driving in Urban Environments: Boss and the Urban Challenge [[pdf]](https://link.springer.com/chapter/10.1007/978-3-642-03991-1_1)
+* Making Bertha Drive—An Autonomous Journey on a Historic Route [[pdf]](http://ieeexplore.ieee.org/abstract/document/6803933/)
+* Towards Full Automated Drive in Urban Environments:A Demonstration in GoMentum Station, California [[pdf]](https://arxiv.org/abs/1705.01187)
 ## Computer vision
 * Computer Vision for Autonomous Vehicles:Problems, Datasets and State-of-the-Art [[pdf]](https://arxiv.org/abs/1704.05519v1)
 * Video Scene Parsing with Predictive Feature Learning[[pdf]](https://arxiv.org/abs/1612.00119v2)
