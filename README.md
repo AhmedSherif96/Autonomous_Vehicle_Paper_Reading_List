@@ -24,6 +24,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car [[pdf]](https://arxiv.org/abs/1704.07911v1)
 * DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving [[pdf]](https://arxiv.org/abs/1505.00256v3)
 * End-to-end Learning of Driving Models from Large-scale Video Datasets [[pdf]](https://arxiv.org/abs/1612.01079v1)
+
 * Fully Convolutional Networks for Semantic Segmentation [[pdf]](http://arxiv.org/abs/1611.07759v2)
 * SegNet: SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
   [[pdf]](https://arxiv.org/abs/1511.00561v3)
@@ -75,6 +76,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Virtual to Real Reinforcement Learning for Autonomous Driving [[pdf]](https://arxiv.org/abs/1704.03952v3)
 * Learning End-to-end Multimodal Sensor Policies for Autonomous Navigation [[pdf]](https://arxiv.org/abs/1705.10422v1)
 * A Fast Integrated Planning and Control Framework for Autonomous Driving via Imitation Learning [[pdf]](https://arxiv.org/abs/1707.02515v1)
+* Navigating Intersections with Autonomous Vehicles using Deep Reinforcement Learning [[pdf]](https://arxiv.org/abs/1705.01196v1)
 * Characterizing Driving Styles with Deep Learning [[pdf]](http://arxiv.org/abs/1607.03611v2)
 * Learning Where to Attend Like a Human Driver [[pdf]](https://arxiv.org/abs/1611.08215v2)
 * Probabilistic Vehicle Trajectory Prediction over Occupancy Grid Map via Recurrent Neural Network [[pdf]](https://arxiv.org/pdf/1704.07049.pdf)
