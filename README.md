@@ -24,7 +24,6 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Explaining How a Deep Neural Network Trained with End-to-End Learning Steers a Car [[pdf]](https://arxiv.org/abs/1704.07911v1)
 * DeepDriving: Learning Affordance for Direct Perception in Autonomous Driving [[pdf]](https://arxiv.org/abs/1505.00256v3)
 * End-to-end Learning of Driving Models from Large-scale Video Datasets [[pdf]](https://arxiv.org/abs/1612.01079v1)
-
 * Fully Convolutional Networks for Semantic Segmentation [[pdf]](http://arxiv.org/abs/1611.07759v2)
 * SegNet: SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
   [[pdf]](https://arxiv.org/abs/1511.00561v3)
