@@ -27,7 +27,8 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * End-to-end Learning of Driving Models from Large-scale Video Datasets [[pdf]](https://arxiv.org/abs/1612.01079v1)
 * Fully Convolutional Networks for Semantic Segmentation [[pdf]](http://arxiv.org/abs/1611.07759v2)
 * SegNet: SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation
-  [[pdf]](https://arxiv.org/abs/1511.00561v3)
+
+[[pdf]](https://arxiv.org/abs/1511.00561v3)
 * Feature Pyramid Networks for Object Detection[[pdf]](http://arxiv.org/abs/1612.03144v2)
 * Mask R-CNN [[pdf]](http://arxiv.org/abs/1703.06870v2)
 * Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks[[pdf]](https://arxiv.org/abs/1506.01497v3)
@@ -67,7 +68,32 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 ## Motion planning & Reinforcement learning
 * A Survey of Motion Planning and Control Techniques for Self-Driving Urban Vehicles[[pdf]](http://ieeexplore.ieee.org/abstract/document/7490340/)
 * Real-time motion planning methods for autonomous on-road driving: State-of-the-art and future research directions [[pdf]](http://www.sciencedirect.com/science/article/pii/S0968090X15003447)
+*[[pdf]]( the pixel-wise semantic segmentation of CNNs?   [[pdf]](http://arxiv.org/abs/1607.00971v1)
+* Pyramid Scene Parsing Network  [[pdf]](https://arxiv.org/abs/1612.01105v2)
+* Brain Inspired Cognitive Model with Attention for Self-Driving Cars [[pdf]](https://arxiv.org/abs/1702.05596v1)
+* Image-to-Image Translation with Conditional Adversarial Networks [[pdf]](http://arxiv.org/abs/1611.07004v1)
+* Unsupervised Image-to-Image Translation Networks [[pdf]](http://arxiv.org/abs/1703.00848v1)
+* A Unified Multi-scale Deep Convolutional Neural Network for Fast Object  Detection[[pdf]](http://arxiv.org/abs/1607.07155v1)
+* Exploit All the Layers: Fast and Accurate CNN Object Detector with Scale Dependent Pooling and Cascaded Rejection Classifiers
+  [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2016/html/Yang_Exploit_All_the_CVPR_2016_paper.html)
+* Multi-Class Multi-Object Tracking using Changing Point Detection[[pdf]](https://arxiv.org/abs/1608.08434v1)
+* Subcategory-aware Convolutional Neural Networks for Object Proposals and Detection[[pdf]](https://arxiv.org/abs/1604.04693v3)
+* Overview of Environment Perception for Intelligent Vehicles[[pdf]](http://ieeexplore.ieee.org/abstract/document/7857073/)
+* An Empirical Evaluation of Deep Learning on Highway Driving [[pdf]](https://arxiv.org/pdf/1504.01716.pdf)
+* Histograms of Oriented Gradients for Human Detection [[pdf]](http://ieeexplore.ieee.org/abstract/document/1467360/)
+## Sensor fusion
+* LIDAR-based Driving Path Generation Using Fully Convolutional Neural Networks [[pdf]](http://arxiv.org/abs/1703.08987v2)
+* A vision-centered multi-sensor fusing approach to self-localization and obstacle perception for robotic cars
+  [[pdf]](https://link.springer.com/article/10.1631/FITEE.1601873)
+* Brain4Cars: Car That Knows Before You Do via Sensory-Fusion Deep Learning Architecture [[pdf]](http://arxiv.org/abs/1601.00740v1)
+* Multi-View 3D Object Detection Network for Autonomous Driving [[pdf]](https://arxiv.org/abs/1611.07759v2)
+* VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem [[pdf]](https://arxiv.org/pdf/1701.08376v2.pdf)
+* Vehicle Detection from 3D Lidar Using Fully Convolutional Network[[pdf]](https://arxiv.org/abs/1608.07916v1)
+* Detecting Drivable Area for Self-driving Cars:An Unsupervised Approach [[pdf]](https://arxiv.org/abs/1705.00451v1)
+## Motion planning & Reinforcement learning
+* A Survey of Motion Planning and Control Techniques for Self-Driving Urban Vehicles[[pdf]](http://ieeexplore.ieee.org/abstract/document/7490340/)
 * A survey on motion prediction and risk assessment for intelligent vehicles [[pdf]](https://link.springer.com/article/10.1186/s40648-014-0001-z)
+* A Review of Motion Planning Techniques for Automated Vehicles [[pdf]](http://ieeexplore.ieee.org/abstract/document/7339478/)
 * End-to-End Deep Reinforcement Learning for Lane Keeping Assist [[pdf]](https://arxiv.org/abs/1612.04340v1)
 * Deep Reinforcement Learning framework for Autonomous Driving [[pdf]](http://arxiv.org/abs/1704.02532v1)
 * Learning to Drive using Inverse Reinforcement Learning and Deep Q-Networks [[pdf]](http://arxiv.org/abs/1612.03653v1)
