@@ -5,6 +5,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Junior: The Stanford Entry in the Urban Challenge [[pdf]](https://link.springer.com/chapter/10.1007/978-3-642-03991-1_3)
 * Towards Fully Autonomous Driving: Systems and Algorithms [[pdf]](http://ieeexplore.ieee.org/abstract/document/5940562/)
 * Autonomous Driving in Urban Environments: Boss and the Urban Challenge [[pdf]](https://link.springer.com/chapter/10.1007/978-3-642-03991-1_1)
+* A perception-driven autonomous urban vehicle [[pdf]](https://link.springer.com/chapter/10.1007%2F978-3-642-03991-1_5)
 * Making Bertha Drive—An Autonomous Journey on a Historic Route [[pdf]](http://ieeexplore.ieee.org/abstract/document/6803933/)
 * Towards Full Automated Drive in Urban Environments:A Demonstration in GoMentum Station, California [[pdf]](https://arxiv.org/abs/1705.01187)
 ## Computer vision
