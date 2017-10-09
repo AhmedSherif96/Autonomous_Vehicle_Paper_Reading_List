@@ -74,6 +74,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * Long-term Planning by Short-term Prediction [[pdf]](http://arxiv.org/abs/1602.01580v1)
 * Safe,Multi-Agent, Reinforcement Learning for Autonomous Driving [[pdf]](http://arxiv.org/abs/1610.03295v1)
 * Large-scale cost function learning for path planning using deep inverse reinforcement learning [[pdf]](http://journals.sagepub.com/doi/abs/10.1177/0278364917722396)
+* Human-like Planning of Swerve Maneuvers for Autonomous Vehicles [[pdf]](http://ieeexplore.ieee.org/document/7535466/)
 * Virtual to Real Reinforcement Learning for Autonomous Driving [[pdf]](https://arxiv.org/abs/1704.03952v3)
 * Learning End-to-end Multimodal Sensor Policies for Autonomous Navigation [[pdf]](https://arxiv.org/abs/1705.10422v1)
 * A Fast Integrated Planning and Control Framework for Autonomous Driving via Imitation Learning [[pdf]](https://arxiv.org/abs/1707.02515v1)
