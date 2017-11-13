@@ -70,6 +70,7 @@ A collection of papers focus on self-driving car. Many topics are covered includ
 * A survey on motion prediction and risk assessment for intelligent vehicles [[pdf]](https://link.springer.com/article/10.1186/s40648-014-0001-z)
 * End-to-End Deep Reinforcement Learning for Lane Keeping Assist [[pdf]](https://arxiv.org/abs/1612.04340v1)
 * Deep Reinforcement Learning framework for Autonomous Driving [[pdf]](http://arxiv.org/abs/1704.02532v1)
+* Continuous control with deep reinforcement learning [[pdf]](https://arxiv.org/abs/1509.02971)
 * Learning to Drive using Inverse Reinforcement Learning and Deep Q-Networks [[pdf]](http://arxiv.org/abs/1612.03653v1)
 * Long-term Planning by Short-term Prediction [[pdf]](http://arxiv.org/abs/1602.01580v1)
 * Safe,Multi-Agent, Reinforcement Learning for Autonomous Driving [[pdf]](http://arxiv.org/abs/1610.03295v1)
